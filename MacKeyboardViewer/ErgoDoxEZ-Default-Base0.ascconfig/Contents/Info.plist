@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ASCConfigurationDisplayName</key>
+	<string>Default Panels</string>
+	<key>ASCConfigurationIdentifier</key>
+	<string>49F8121E-736B-4FC2-BEA8-209C3EF54ED9</string>
+	<key>ASCConfigurationProductSupportType</key>
+	<string>VirtualKeyboard</string>
+	<key>ASCConfigurationVersion</key>
+	<string>7.0</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.AssistiveControl.panel.newDoc.defs</string>
+	<key>CFBundleName</key>
+	<string>Assistive Control Panels</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.0</string>
+	<key>CFBundleVersion</key>
+	<string>285</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2016-2017 Apple Inc. All Rights Reserved.</string>
+</dict>
+</plist>
