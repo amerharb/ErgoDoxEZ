@@ -4,7 +4,7 @@
 <dict>
 	<key>Panels</key>
 	<dict>
-		<key>USER.6CF7FD4E-3F86-4171-8D95-91819691BCA3</key>
+		<key>USER.339C88D8-281B-45BC-B7C6-105C24EB7508</key>
 		<dict>
 			<key>DisplayOrder</key>
 			<integer>1</integer>
@@ -25,7 +25,7 @@
 			<key>HideTitlebar</key>
 			<false/>
 			<key>ID</key>
-			<string>USER.6CF7FD4E-3F86-4171-8D95-91819691BCA3</string>
+			<string>USER.339C88D8-281B-45BC-B7C6-105C24EB7508</string>
 			<key>KeyboardHWID</key>
 			<integer>43</integer>
 			<key>KeyboardPhysicalType</key>
@@ -36,20 +36,14 @@
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>Group.8C23C1CA-E4A3-4CB4-904D-FFC808A6AD16</string>
-					<key>PanelObjectType</key>
-					<string>Group</string>
-				</dict>
-				<dict>
-					<key>ID</key>
-					<string>Group.FCBB2A0B-3DC6-4AC5-9C26-CC822D50DCFF</string>
+					<string>Group.45A342FF-7C15-4FE3-9F14-E9CED54FEAD3</string>
 					<key>PanelObjectType</key>
 					<string>Group</string>
 					<key>PanelObjects</key>
 					<array>
 						<dict>
 							<key>ID</key>
-							<string>Group.A35465A2-ED70-4033-A593-78F48CA94B1D</string>
+							<string>Group.4CD2ECD0-ABAE-4D6B-91CD-01F497519302</string>
 							<key>PanelObjectType</key>
 							<string>Group</string>
 							<key>PanelObjects</key>
@@ -104,7 +98,7 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{0, 0}, {65, 45}}</string>
+									<string>{{0, 0}, {70, 45}}</string>
 								</dict>
 								<dict>
 									<key>Actions</key>
@@ -156,7 +150,7 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{70, 0}, {45, 45}}</string>
+									<string>{{75, 0}, {45, 45}}</string>
 								</dict>
 								<dict>
 									<key>Actions</key>
@@ -208,7 +202,7 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{120, 0}, {45, 45}}</string>
+									<string>{{125, 0}, {45, 45}}</string>
 								</dict>
 								<dict>
 									<key>Actions</key>
@@ -260,7 +254,7 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{170, 0}, {45, 45}}</string>
+									<string>{{175, 0}, {45, 45}}</string>
 								</dict>
 								<dict>
 									<key>Actions</key>
@@ -312,7 +306,7 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{220, 0}, {45, 45}}</string>
+									<string>{{225, 0}, {45, 45}}</string>
 								</dict>
 								<dict>
 									<key>Actions</key>
@@ -364,15 +358,15 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{270, 0}, {45, 45}}</string>
+									<string>{{275, 0}, {45, 45}}</string>
 								</dict>
 							</array>
 							<key>Rect</key>
-							<string>{{0, 0}, {315, 45}}</string>
+							<string>{{0, 0}, {320, 45}}</string>
 						</dict>
 						<dict>
 							<key>ID</key>
-							<string>Group.0016DD64-0D8A-4E7A-80BE-458FBBACF7D7</string>
+							<string>Group.8AFA5750-A2B5-4DFE-A092-1751019F5988</string>
 							<key>PanelObjectType</key>
 							<string>Group</string>
 							<key>PanelObjects</key>
@@ -434,11 +428,11 @@
 											<key>PanelObjectType</key>
 											<string>Button</string>
 											<key>Rect</key>
-											<string>{{0, 0}, {65, 45}}</string>
+											<string>{{0, 0}, {70, 45}}</string>
 										</dict>
 									</array>
 									<key>Rect</key>
-									<string>{{0, 0}, {65, 45}}</string>
+									<string>{{0, 0}, {70, 45}}</string>
 								</dict>
 								<dict>
 									<key>Actions</key>
@@ -490,7 +484,7 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{70, 0}, {45, 45}}</string>
+									<string>{{75, 0}, {45, 45}}</string>
 								</dict>
 								<dict>
 									<key>Actions</key>
@@ -542,7 +536,7 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{120, 0}, {45, 45}}</string>
+									<string>{{125, 0}, {45, 45}}</string>
 								</dict>
 								<dict>
 									<key>Actions</key>
@@ -594,7 +588,7 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{170, 0}, {45, 45}}</string>
+									<string>{{175, 0}, {45, 45}}</string>
 								</dict>
 								<dict>
 									<key>Actions</key>
@@ -646,7 +640,7 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{220, 0}, {45, 45}}</string>
+									<string>{{225, 0}, {45, 45}}</string>
 								</dict>
 								<dict>
 									<key>Actions</key>
@@ -698,15 +692,15 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{270, 0}, {45, 45}}</string>
+									<string>{{275, 0}, {45, 45}}</string>
 								</dict>
 							</array>
 							<key>Rect</key>
-							<string>{{0, 50}, {315, 45}}</string>
+							<string>{{0, 50}, {320, 45}}</string>
 						</dict>
 						<dict>
 							<key>ID</key>
-							<string>Group.40334F47-8363-479A-B1E0-1B74D17D5551</string>
+							<string>Group.B07735C0-47A0-42AA-9FD0-CD1139CEB18C</string>
 							<key>PanelObjectType</key>
 							<string>Group</string>
 							<key>PanelObjects</key>
@@ -761,7 +755,7 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{0, 0}, {65, 45}}</string>
+									<string>{{0, 0}, {70, 45}}</string>
 								</dict>
 								<dict>
 									<key>Actions</key>
@@ -813,7 +807,7 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{70, 0}, {45, 45}}</string>
+									<string>{{75, 0}, {45, 45}}</string>
 								</dict>
 								<dict>
 									<key>Actions</key>
@@ -865,7 +859,7 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{120, 0}, {45, 45}}</string>
+									<string>{{125, 0}, {45, 45}}</string>
 								</dict>
 								<dict>
 									<key>Actions</key>
@@ -917,7 +911,7 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{170, 0}, {45, 45}}</string>
+									<string>{{175, 0}, {45, 45}}</string>
 								</dict>
 								<dict>
 									<key>Actions</key>
@@ -969,7 +963,7 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{220, 0}, {45, 45}}</string>
+									<string>{{225, 0}, {45, 45}}</string>
 								</dict>
 								<dict>
 									<key>Actions</key>
@@ -1021,15 +1015,15 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{270, 0}, {45, 45}}</string>
+									<string>{{275, 0}, {45, 45}}</string>
 								</dict>
 							</array>
 							<key>Rect</key>
-							<string>{{0, 100}, {315, 45}}</string>
+							<string>{{0, 100}, {320, 45}}</string>
 						</dict>
 						<dict>
 							<key>ID</key>
-							<string>Group.94395BBF-C0E4-4305-AC43-36B8283D1AA3</string>
+							<string>Group.5C9B20E6-9F78-4BA6-A823-C7A38F36651E</string>
 							<key>PanelObjectType</key>
 							<string>Group</string>
 							<key>PanelObjects</key>
@@ -1084,7 +1078,7 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{0, 0}, {65, 45}}</string>
+									<string>{{0, 0}, {70, 45}}</string>
 								</dict>
 								<dict>
 									<key>Actions</key>
@@ -1136,7 +1130,7 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{70, 0}, {45, 45}}</string>
+									<string>{{75, 0}, {45, 45}}</string>
 								</dict>
 								<dict>
 									<key>Actions</key>
@@ -1188,7 +1182,7 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{120, 0}, {45, 45}}</string>
+									<string>{{125, 0}, {45, 45}}</string>
 								</dict>
 								<dict>
 									<key>Actions</key>
@@ -1240,7 +1234,7 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{170, 0}, {45, 45}}</string>
+									<string>{{175, 0}, {45, 45}}</string>
 								</dict>
 								<dict>
 									<key>Actions</key>
@@ -1292,7 +1286,7 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{220, 0}, {45, 45}}</string>
+									<string>{{225, 0}, {45, 45}}</string>
 								</dict>
 								<dict>
 									<key>Actions</key>
@@ -1344,11 +1338,11 @@
 									<key>PanelObjectType</key>
 									<string>Button</string>
 									<key>Rect</key>
-									<string>{{270, 0}, {45, 45}}</string>
+									<string>{{275, 0}, {45, 45}}</string>
 								</dict>
 							</array>
 							<key>Rect</key>
-							<string>{{0, 150}, {315, 45}}</string>
+							<string>{{0, 150}, {320, 45}}</string>
 						</dict>
 						<dict>
 							<key>ID</key>
@@ -1465,7 +1459,7 @@
 								</dict>
 							</array>
 							<key>Rect</key>
-							<string>{{320, 0}, {45, 195}}</string>
+							<string>{{325, 0}, {45, 195}}</string>
 						</dict>
 						<dict>
 							<key>ID</key>
@@ -1682,7 +1676,7 @@
 								</dict>
 							</array>
 							<key>Rect</key>
-							<string>{{20, 200}, {245, 45}}</string>
+							<string>{{25, 200}, {245, 45}}</string>
 						</dict>
 						<dict>
 							<key>ID</key>
@@ -2013,7 +2007,15 @@
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>Group.6B5CE082-9B59-42E0-9682-5D55620BF4C6</string>
+					<string>Group.8C23C1CA-E4A3-4CB4-904D-FFC808A6AD16</string>
+					<key>PanelObjectType</key>
+					<string>Group</string>
+					<key>Rect</key>
+					<string>{{15, 10}, {0, 0}}</string>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>Group.DDEABBE0-96C8-4B12-8852-62E6A6766BB5</string>
 					<key>PanelObjectType</key>
 					<string>Group</string>
 					<key>PanelObjects</key>
@@ -3990,17 +3992,17 @@
 						</dict>
 					</array>
 					<key>Rect</key>
-					<string>{{445, 0}, {370, 395}}</string>
+					<string>{{450, 0}, {370, 395}}</string>
 				</dict>
 			</array>
 			<key>ProductSupportType</key>
 			<string>VirtualKeyboard</string>
 			<key>Rect</key>
-			<string>{{0, 0}, {825, 405}}</string>
+			<string>{{0, 0}, {830, 405}}</string>
 			<key>ScanStyle</key>
 			<integer>0</integer>
 			<key>ShowPanelLocationString</key>
-			<string>DefaultHomePanel</string>
+			<string>CustomPanelList</string>
 			<key>UsesPinnedResizing</key>
 			<false/>
 		</dict>
